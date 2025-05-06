@@ -18,5 +18,4 @@ Qualitative tracking results for **DMODT – Dynamic Maritime Object Det
 Raw videos are hosted externally because of size limits:
 
 
-Download link: https://mmuo365-my.sharepoint.com/:f:/g/personal/20240017_stu_mmu_ac_kr/EkDEDreHg_5Kpe8-OITnD24BHXx_J9U6vSWa0sqt6WE5XQ?e=O7YNg8
-Password: 0000
+[Download link: https://drive.google.com/drive/folders/1jhYHaL2bkJHd1N4vS3rqXWIHTQ874Bky?usp=sharing
