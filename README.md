@@ -15,7 +15,7 @@ Qualitative tracking results for **DMODT – Dynamic Maritime Object Det
 | `*.gif`       | Key‑frame animations (≈ 10 FPS) for a quick look at identity consistency. |
 | `raw_videos/` | High‑resolution MP4s (original frame rate, bounding‑box overlays, ID trails). |
 
-Raw videos are hosted externally because of size limits:
+Raw videos are hosted externally because of size limits.
 
 
 [Download link: https://drive.google.com/drive/folders/1jhYHaL2bkJHd1N4vS3rqXWIHTQ874Bky?usp=sharing]
